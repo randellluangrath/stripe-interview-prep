@@ -1,2 +1,2 @@
-# stripe-interview-prep
+# algorithms-exercises
 Created with CodeSandbox
